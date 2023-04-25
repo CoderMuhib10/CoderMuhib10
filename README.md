@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhib Al Hasan</h1>
 <h3 align="center">And I'm a creative coder from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://www.percoyo.com/wp-content/uploads/2021/06/Developer-e1622791264963.jpg")
+img align="right" alt="Coding" width="400" src="https://www.percoyo.com/wp-content/uploads/2021/06/Developer-e1622791264963.jpg"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermuhib10&label=Profile%20views&color=0e75b6&style=flat" alt="codermuhib10" /> </p>

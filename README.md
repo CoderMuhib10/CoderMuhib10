@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thesiyhbrand" target="blank"><img src="https://img.shields.io/twitter/follow/thesiyhbrand?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
+
 
 - Learning on <a href="https://github.com/programmingHero1" target="_blank">Programming Hero</a>
 
